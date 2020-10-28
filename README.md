@@ -18,7 +18,7 @@
   <p align="center">
     "Making the world a noisier place"
     <br />
-    <a href="https://onlineinterchat.herokuapp.com/">Version en ligne</a>
+    <a href="https://onlineinterchat.herokuapp.com/">Online Version (French)</a>
     ·
     <a href="https://github.com/NoeJuza/OnlineInterChatLocal/issues">Report Bug</a>
     ·
