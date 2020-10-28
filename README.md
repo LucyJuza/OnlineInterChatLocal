@@ -127,7 +127,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+NoeJuza - Noe.Juzan@edueptm.ch
 
 Project Link: [https://github.com/NoeJuza/OnlineInterChatLocal](https://github.com/NoeJuza/OnlineInterChatLocal)
 
