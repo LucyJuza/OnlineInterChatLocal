@@ -94,7 +94,7 @@ npm install && npm run
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-You just need to select a Username and then, you can just chat like yyou would with any normal chat app
+You just need to select a Username and then, you can just chat like you would with any normal chat app
 
 
 <!-- ROADMAP -->
