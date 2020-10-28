@@ -143,4 +143,4 @@ Project Link: [https://github.com/NoeJuza/OnlineInterChatLocal](https://github.c
 [issues-shield]: https://img.shields.io/github/issues/NoeJuza/OnlineInterChatLocal.svg?style=flat-square
 [issues-url]: https://github.com/NoeJuza/OnlineInterChatLocal/issues
 [license-shield]: https://img.shields.io/github/license/NoeJuza/OnlineInterChatLocal.svg?style=flat-square
-[license-url]: https://github.com/NoeJuza/OnlineInterChatLocal/blob/master/LICENSE.txt
+[license-url]: https://github.com/NoeJuza/OnlineInterChatLocal/blob/master/LICENSE
