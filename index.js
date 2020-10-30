@@ -131,6 +131,11 @@ io.sockets.on('connection', function(socket) { // quand le socket est crée
         logusername(username,nochan);
         io.emit('is_online' + nochan, '🔵 <i>' + socket.username + ' a rejoint le salon</i>');
     });
+    
+    socket.on('usernameChanged', function(username,nochan) { // quand l'utilisateur change son pseudo
+        io.emit('chat_message' + nochan, socket.username, "rennomage en \"" + username + "\"");
+        socket.username = username;
+    });
 
     socket.on('deco', function(nochan) {  // quand un utilisateur se déconnecte.
         io.emit('is_down' + nochan, '🔴 <i>' + socket.username + ' a quitté le salon</i>');
